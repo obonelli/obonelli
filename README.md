@@ -38,4 +38,3 @@ I really enjoy ⭐ everything related to technology 💻, programming 👩‍�
 ## 📫 How to reach me:
 - ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)  
 - ✨ [Portfolio](https://obonelli.dev)
-- 
