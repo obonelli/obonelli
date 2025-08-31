@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25187681-dff5-43e5-8b6b-588791be6b48"
        alt="Banner Oscar Bonelli"
-       height="260" />
+       width="100%" />
 </p>
 
 ## About Me
