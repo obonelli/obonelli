@@ -4,12 +4,11 @@
        width="100%" />
 </p>
 
-## About Me
-I really enjoy ⭐ everything related to technology 💻, programming 👩‍💻, and I'm passionate about web development.  
+## About Me  
 
-🌱 Trying to become a better person every day.  
-⏳ I enjoy personal development and productivity.  
-💬 I enjoy working in teams and collaborating with other people.  
+💻 I’m a software developer fully committed to delivering quality work on time and with discipline.  
+🎨 Creativity drives me — I love turning fresh ideas into real, impactful solutions.  
+⚡ Challenges motivate me to push harder, achieve results, and keep growing.  
 
 ---
 
@@ -40,5 +39,5 @@ I really enjoy ⭐ everything related to technology 💻, programming 👩‍�
 ---
 
 ## 📫 How to reach me:
-- ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)
-- ✨ [Portfolio](https://obonelli.dev)
+- ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)  
+- ✨ [Portfolio](https://obonelli.dev)  
