@@ -1,4 +1,6 @@
-# Welcome, I'm Oscar Bonelli 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54de7319-89a2-432f-863c-9981f911726b" alt="Banner Oscar Bonelli" width="100%" />
+</p>
 
 ## About Me
 I really enjoy ⭐ everything related to technology 💻, programming 👩‍💻, and I'm passionate about web development.  
@@ -37,4 +39,4 @@ I really enjoy ⭐ everything related to technology 💻, programming 👩‍�
 
 ## 📫 How to reach me:
 - ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)  
-- ✨ [Portfolio](https://obonelli.dev)
+- ✨ [Portfolio](https://obonelli.dev)  
