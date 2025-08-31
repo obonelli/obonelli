@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54de7319-89a2-432f-863c-9981f911726b" alt="Banner Oscar Bonelli" width="100%" />
+  <img src="<img width="1536" height="1024" alt="ChatGPT Image 31 ago 2025, 03_26_21 p m" src="https://github.com/user-attachments/assets/25187681-dff5-43e5-8b6b-588791be6b48" />
+" alt="Banner Oscar Bonelli" width="100%" />
 </p>
 
 ## About Me
