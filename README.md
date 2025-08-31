@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="ChatGPT Image 31 ago 2025, 03_26_21 p m" src="https://github.com/user-attachments/assets/25187681-dff5-43e5-8b6b-588791be6b48" />
-" alt="Banner Oscar Bonelli" width="100%" />
+  <img src="https://github.com/user-attachments/assets/25187681-dff5-43e5-8b6b-588791be6b48"
+       alt="Banner Oscar Bonelli"
+       height="260" />
 </p>
 
 ## About Me
@@ -39,5 +40,5 @@ I really enjoy ⭐ everything related to technology 💻, programming 👩‍�
 ---
 
 ## 📫 How to reach me:
-- ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)  
-- ✨ [Portfolio](https://obonelli.dev)  
+- ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)
+- ✨ [Portfolio](https://obonelli.dev)
