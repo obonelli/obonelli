@@ -4,40 +4,29 @@
        width="100%" />
 </p>
 
-## About Me  
+## 📌 About Me  
 
-💻 I’m a software developer fully committed to delivering quality work on time and with discipline.  
-🎨 Creativity drives me — I love turning fresh ideas into real, impactful solutions.  
-⚡ Challenges motivate me to push harder, achieve results, and keep growing.  
+💻 I’m a software developer fully committed to delivering high-quality work and meeting deadlines.  
+🎨 I love turning fresh ideas into real, innovative solutions that bring value.  
+⚡ Challenges fuel me — they push me to achieve results and keep growing.  
 
 ---
 
-## Web Developer
+## 📊 GitHub Stats
 ![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical)
 
 ---
 
-## 🚀 Technologies
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,java,spring,postgres,docker,git,github,figma,vscode,linux"
+       height="40" />
 </div>
 
 ---
 
-## 📫 How to reach me:
-- ✨ [LinkedIn](https://www.linkedin.com/in/obonelli/)  
-- ✨ [Portfolio](https://obonelli.dev)  
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obonelli/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://obonelli.dev)  
