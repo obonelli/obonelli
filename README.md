@@ -25,9 +25,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=obonelli&repo=LinkedIn&theme=radical&title_color=ffffff&text_color=cccccc&icon_color=0077B5&bg_color=141321&hide_border=false" alt="LinkedIn" />
   </a>
   <a href="https://obonelli.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=obonelli&repo=Portfolio&theme=radical&title_color=ffffff&text_color=cccccc&icon_color=000000&bg_color=141321&hide_border=false" alt="Portfolio" />
   </a>
 </p>
