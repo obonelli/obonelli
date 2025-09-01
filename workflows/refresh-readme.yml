@@ -19,25 +19,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate version (UTC timestamp)
-        id: gen
-        run: echo "V=$(date -u +%Y%m%d%H%M)" >> $GITHUB_OUTPUT
-
-      - name: Replace &v= in README.md
+      - name: Read current v and bump
+        id: bump
+        shell: bash
         run: |
-          TS="${{ steps.gen.outputs.V }}"
-          # Reemplaza cualquier &v=NUMEROS por &v=<timestamp> en README.md
-          sed -E -i "s/(&v=)[0-9]+/\1${TS}/g" README.md
+          # Obtiene el primer &v=NUM encontrado; por defecto 1 si no existe
+          CUR=$(grep -oE '&v=[0-9]+' README.md | head -n1 | sed 's/&v=//') || true
+          if [[ -z "$CUR" ]]; then CUR=1; fi
+          NEXT=$((CUR + 1))
+          echo "CUR=$CUR"   >> $GITHUB_OUTPUT
+          echo "NEXT=$NEXT" >> $GITHUB_OUTPUT
+
+      - name: Replace all occurrences in README.md
+        run: |
+          NEXT="${{ steps.bump.outputs.NEXT }}"
+          # Reemplaza TODOS los &v=NUM por &v=NEXT
+          sed -E -i "s/(&v=)[0-9]+/\1${NEXT}/g" README.md
           echo "Preview of changes:"
           git --no-pager diff -- README.md || true
 
-      - name: Commit & push if changed
+      - name: Commit & push if changed (as bot)
         run: |
           if [[ -n "$(git status --porcelain README.md)" ]]; then
             git config user.name  "readme-bot[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "🤖 chore(readme): bump cards cache v to ${{ steps.gen.outputs.V }}"
+            git commit -m "🤖 chore(readme): bump cards cache v to ${{ steps.bump.outputs.NEXT }}"
             git push
           else
             echo "No changes to commit."
