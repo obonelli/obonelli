@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=60)
+![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=60)
 
 ---
 
