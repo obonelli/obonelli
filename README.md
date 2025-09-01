@@ -25,10 +25,10 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
-        <img alt="LinkedIn"
-             src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=141321&color=141321" />
+    <td align="center" style="border: 1px solid #333; border-radius: 6px; padding: 6px 12px; background:#141321;">
+      <a href="https://www.linkedin.com/in/obonelli/" target="_blank" style="text-decoration:none; color:white; font-weight:bold;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" style="vertical-align:middle; margin-right:6px;" />
+        LinkedIn
       </a>
     </td>
     <td align="center">
