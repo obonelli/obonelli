@@ -21,25 +21,25 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
     <img
       alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=141321&color=141321"
     />
   </a>
   <a href="https://obonelli.dev" target="_blank">
     <img
       alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=141321&color=141321"
     />
   </a>
   <a href="mailto:obonelli.dev@gmail.com" target="_blank">
     <img
       alt="Email"
-      src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=D14836"
+      src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=141321&color=141321"
     />
   </a>
 </p>
