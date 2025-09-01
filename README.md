@@ -25,30 +25,24 @@
 
 <table align="center">
   <tr>
-    <!-- LINKEDIN: card custom con icono + texto, mismo look que los badges -->
-    <td align="center" style="padding:0 6px;">
-      <a href="https://www.linkedin.com/in/obonelli/" target="_blank" style="text-decoration:none;">
-        <span style="display:inline-flex;align-items:center;gap:8px;background:#141321;border:1px solid #2b2b35;border-radius:6px;padding:10px 14px;font-weight:700;letter-spacing:.06em;color:#ffffff;">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="in" width="18" height="18" style="vertical-align:middle;"/>
-          LINKEDIN
-        </span>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
+        <img alt="LinkedIn"
+             src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=141321&color=141321" />
       </a>
     </td>
-
     <td align="center">
       <a href="https://obonelli.dev" target="_blank">
         <img alt="Portfolio"
              src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=141321&color=141321" />
       </a>
     </td>
-
     <td align="center">
       <a href="mailto:bonelli.personal@gmail.com" target="_blank">
         <img alt="Email"
              src="https://img.shields.io/badge/bonelli.personal@gmail.com-141321?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=141321&color=141321" />
       </a>
     </td>
-
     <td align="center">
       <a href="tel:+528332087965" target="_blank">
         <img alt="Phone"
