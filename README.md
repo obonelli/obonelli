@@ -14,13 +14,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&cache_seconds=60&v=5)
+![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=60)
 
 ---
 
 ## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&langs_count=8&card_width=420&custom_title=Most%20Used%20Languages&cache_seconds=60&v=5)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&langs_count=8&card_width=420&custom_title=Most%20Used%20Languages&cache_seconds=60)
 
 ---
 
