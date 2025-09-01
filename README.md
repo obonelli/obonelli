@@ -5,6 +5,7 @@
 </p>
 
 ## 📌 About Me  
+🌌 Creator of Realities — Builder of Worlds through code and imagination.  
 💻 I’m a software developer fully committed to delivering high-quality work and meeting deadlines.  
 🎨 I love turning fresh ideas into real, innovative solutions that bring value.  
 ⚡ Challenges fuel me — they push me to achieve results and keep growing.  
