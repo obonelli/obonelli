@@ -25,19 +25,19 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
         <img alt="LinkedIn"
              src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://obonelli.dev" target="_blank">
         <img alt="Portfolio"
              src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="mailto:obonelli.dev@gmail.com" target="_blank">
         <img alt="Email"
              src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=D14836" />
