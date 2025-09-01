@@ -38,9 +38,15 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:obonelli.dev@gmail.com" target="_blank">
+      <a href="mailto:bonelli.personal@gmail.com" target="_blank">
         <img alt="Email"
-             src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=D14836" />
+             src="https://img.shields.io/badge/bonelli.personal@gmail.com-141321?style=for-the-badge&logo=gmail&logoColor=D14836" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+528332087965" target="_blank">
+        <img alt="Phone"
+             src="https://img.shields.io/badge/+52%20833%20208%2079%2065-141321?style=for-the-badge&logo=phone&logoColor=00FF00" />
       </a>
     </td>
   </tr>
