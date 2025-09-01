@@ -25,28 +25,28 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/obonelli/" target="_blank">
-        <img alt="LinkedIn"
-             src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=141321&color=141321" />
+    <td align="center" style="border: 1px solid #333; border-radius: 6px; padding: 8px 16px; background:#141321;">
+      <a href="https://www.linkedin.com/in/obonelli/" target="_blank" style="text-decoration:none; color:white; font-weight:bold;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align:middle; margin-right:6px;" />
+        LinkedIn
       </a>
     </td>
-    <td align="center">
-      <a href="https://obonelli.dev" target="_blank">
-        <img alt="Portfolio"
-             src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=141321&color=141321" />
+    <td align="center" style="border: 1px solid #333; border-radius: 6px; padding: 8px 16px; background:#141321;">
+      <a href="https://obonelli.dev" target="_blank" style="text-decoration:none; color:white; font-weight:bold;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20" style="vertical-align:middle; margin-right:6px;" />
+        Portfolio
       </a>
     </td>
-    <td align="center">
-      <a href="mailto:bonelli.personal@gmail.com" target="_blank">
-        <img alt="Email"
-             src="https://img.shields.io/badge/bonelli.personal@gmail.com-141321?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=141321&color=141321" />
+    <td align="center" style="border: 1px solid #333; border-radius: 6px; padding: 8px 16px; background:#141321;">
+      <a href="mailto:bonelli.personal@gmail.com" target="_blank" style="text-decoration:none; color:white; font-weight:bold;">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20" style="vertical-align:middle; margin-right:6px;" />
+        bonelli.personal@gmail.com
       </a>
     </td>
-    <td align="center">
-      <a href="tel:+528332087965" target="_blank">
-        <img alt="Phone"
-             src="https://img.shields.io/badge/%F0%9F%93%9E%20+52%20833%20208%2079%2065-141321?style=for-the-badge&labelColor=141321&color=141321" />
+    <td align="center" style="border: 1px solid #333; border-radius: 6px; padding: 8px 16px; background:#141321;">
+      <a href="tel:+528332087965" target="_blank" style="text-decoration:none; color:white; font-weight:bold;">
+        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20" style="vertical-align:middle; margin-right:6px;" />
+        +52 833 208 79 65
       </a>
     </td>
   </tr>
