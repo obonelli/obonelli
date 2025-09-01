@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 📫 Let’s Connect  
 
 <table align="center">
