@@ -5,7 +5,7 @@
 </p>
 
 ## 📌 About Me  
-
+https://github.com/obonelli/obonelli/blob/main/README.md
 💻 I’m a software developer fully committed to delivering high-quality work and meeting deadlines.  
 🎨 I love turning fresh ideas into real, innovative solutions that bring value.  
 ⚡ Challenges fuel me — they push me to achieve results and keep growing.  
@@ -17,12 +17,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,java,spring,postgres,docker,git,github,figma,vscode,linux"
-       height="40" />
-</div>
+## 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&cache_seconds=60&v=1)
 
 ---
 
