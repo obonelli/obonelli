@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&cache_seconds=60&v=73)
+![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&cache_seconds=60&v=74)
 
 ## 🔥 Coding Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=obonelli&theme=radical&hide_border=true&card_width=420)](https://git.io/streak-stats)
@@ -22,7 +22,7 @@
 ---
 
 ## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&langs_count=8&card_width=420&custom_title=Most%20Used%20Languages&cache_seconds=60&v=73)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&langs_count=8&card_width=420&custom_title=Most%20Used%20Languages&cache_seconds=60&v=74)
 
 ---
 
