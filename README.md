@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 <!-- Si después auto-hosteas, cambia el dominio a tu vercel: https://github-readme-stats-obonelli.vercel.app -->
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&cache_seconds=60&v=89)
 
 ## 🔥 Coding Streak
 <!-- Fallback: si no carga, al menos el texto enlazado no rompe el layout -->
