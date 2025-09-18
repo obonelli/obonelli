@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&cache_seconds=600&v=91)
+![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radicalv=91)
 
 ## 🔥 Coding Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=obonelli&theme=radical&hide_border=true&card_width=420)](https://git.io/streak-stats)
