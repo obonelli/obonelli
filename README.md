@@ -4,26 +4,40 @@
        width="100%" />
 </p>
 
-## 📌 About Me  
+## 👋 About Me  
 🌌 Creator of Realities — Builder of Worlds through code and imagination.  
-💻 I’m a software developer fully committed to delivering high-quality work and meeting deadlines.  
-🎨 I love turning fresh ideas into real, innovative solutions that bring value.  
-🤝 I enjoy working in teams and sharing knowledge to help others grow.  
-⚡ Challenges fuel me — they push me to achieve results and keep growing.  
+💻 Software developer focused on shipping clean, reliable solutions.  
+🎨 I turn ideas into practical, high-impact products.  
+🤝 Strong team player who enjoys collaboration and knowledge sharing.  
+⚡ I thrive on challenges and fast-paced environments.
 
 ---
 
-## 📊 GitHub Stats
-![Obonelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=obonelli&show_icons=true&theme=radical&cache_seconds=86400)
+## 🚀 What I Do for Teams
+I help teams **move forward when things are stuck**.
 
+- Unblock PRs and reduce review backlogs  
+- Fix production bugs and fragile UI logic  
+- Improve React / TypeScript codebases without breaking UX  
+- Deliver features under tight deadlines with minimal hand-holding  
 
-## 🔥 Coding Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=obonelli&theme=radical&hide_border=true&card_width=420)](https://git.io/streak-stats)
+I work **by deliverables**, not noise.
 
 ---
 
-## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obonelli&layout=compact&theme=radical&langs_count=8&cache_seconds=86400)
+## 🧠 Recent Work Highlights
+- Stabilized authentication flows in multi-tenant applications  
+- Refactored complex frontend logic to improve maintainability  
+- Supported teams close to release by resolving last-minute blockers  
+- Improved UI consistency and state handling in React apps  
+
+---
+
+## ⏱ Availability
+✅ Available for **short-term support** (hours or weeks)  
+✅ React · TypeScript · Frontend fixes · Urgent issues  
+
+If you need someone who can **jump in fast and get things done**, let’s talk.
 
 ---
 
